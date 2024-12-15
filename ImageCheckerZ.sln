@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCheckerZ", "ImageCheckerZ\ImageCheckerZ.csproj", "{5BE69A0E-A69B-4790-ABA1-9386CDDFF5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestImageCheck", "TestImageCheck\TestImageCheck.csproj", "{F6B2D054-05AC-4160-A1D3-365E2E36FA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE69A0E-A69B-4790-ABA1-9386CDDFF5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE69A0E-A69B-4790-ABA1-9386CDDFF5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE69A0E-A69B-4790-ABA1-9386CDDFF5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE69A0E-A69B-4790-ABA1-9386CDDFF5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B2D054-05AC-4160-A1D3-365E2E36FA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B2D054-05AC-4160-A1D3-365E2E36FA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B2D054-05AC-4160-A1D3-365E2E36FA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B2D054-05AC-4160-A1D3-365E2E36FA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B6CF11-BC3C-4512-8491-8894C33DE9C6}
+	EndGlobalSection
+EndGlobal
